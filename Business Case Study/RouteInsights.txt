@@ -1,0 +1,49 @@
+✈️ Route Insights
+
+Q1. What is the overall airline performance?  
+Ans. The KPIs show Total Revenue = 17bn, Total Profit = 2bn, Average Occupancy = 841, Total Flights = 5K, and Average Flight Duration = 476 mins.
+👉 This means the airline is profitable but occupancy efficiency can be improved.
+Airline KPIs
+
+Q2. Which routes are the most profitable?  
+Ans. The bar chart highlights MAA–KUL, DEL–SIN, DEL–SYD, BOM–JFK, BOM–DXB as top earners.
+👉 These are the backbone routes driving profitability.
+Top Routes
+
+Q3. How do profits change across months?  
+Ans. The line chart shows profit peaks in May (0.26bn) and October (0.23bn), while dips occur in February and August.
+👉 Seasonal demand strongly impacts profitability.
+Monthly Profit Trend
+
+Q4. Which routes have high revenue but lower profit?  
+Ans. The Cost vs Revenue chart shows routes like DEL–SYD and BOM–DXB generating strong revenue but with high costs, reducing net profit.
+👉 Cost management is key on these routes.
+Cost vs Revenue
+
+Q5. How does occupancy affect performance?  
+Ans. The gauge chart shows average occupancy at 841 seats filled.
+👉 Routes with higher occupancy consistently deliver better profitability, proving seat utilization is critical.
+Occupancy Gauge
+
+Q6. Where are the flights operating?  
+Ans. The Origin–Destination map shows major hubs like Delhi, Mumbai, Singapore, Sydney, Dubai, London, New York.
+👉 The airline has a mix of domestic and international routes, with strong long‑haul presence.
+Origin–Destination Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
