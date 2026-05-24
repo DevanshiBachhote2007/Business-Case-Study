@@ -1,5 +1,10 @@
 # ✈️ Airline Route Profitability Dashboard
 
+## Project Question
+Question Link:
+
+👉 [Practical Exam Questions](https://docs.google.com/document/d/1QKYlBldmP9u0LIcXv2UjWiUxavN79xOteEuXa3RRydw/edit?tab=t.0)
+
 ## 📌 Project Overview
 This project analyzes airline route performance using **SQL + Power BI**.  
 It provides insights into **revenue, profit, occupancy, and route efficiency** with interactive visuals and KPIs.
